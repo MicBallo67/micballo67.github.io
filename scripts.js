@@ -3,8 +3,13 @@ document.addEventListener("DOMContentLoaded", function() {
     const videoList = document.getElementById('video-list');
 
     const videos = [
-        { title: "Most Popular Video", url: "https://m.youtube.com/shorts/UkX2pW7QZ_s" },
-        { title: "Newest Live😃", url: "https://m.youtube.com/watch?v=l5hb1Qk8e9o" }
+        <iframe width="315" height="560"
+src="https://www.youtube.com/embed/UkX2pW7QZ_s"
+title="Most Popular Short"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+allowfullscreen></iframe>,
+        { title: "Newest Live😃", url: "https://www.youtube.com/embed/l5hb1Qk8e9o?si=gIoM4YiSTXRVVVJW" }
         // Add more videos here
     ];
 
